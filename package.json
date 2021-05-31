@@ -1,0 +1,21 @@
+{
+  "name": "gitty-exec",
+  "version": "1.0.0",
+  "description": "Get all the dependencies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitty": "node gitty.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabian295/gitty-exec.git"
+  },
+  "keywords": [],
+  "author": "Fabian Kanhai <fabiankanhai70@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fabian295/gitty-exec/issues"
+  },
+  "homepage": "https://github.com/Fabian295/gitty-exec#readme"
+}
